@@ -1,0 +1,51 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.listen-everything {
+  background: #2e474c;
+}
+
+.plan {
+  width: 25% !important;
+}
+
+@media only screen and (max-width: 1024px) {
+  .plan {
+    width: 50% !important;
+  }
+}
+
+@media only screen and (max-width: 426px) {
+  .plan {
+    width: 80% !important;
+  }
+}
+
+.btn-dark {
+  background-color: #2e474c;
+}
+
+.download-sec {
+  background-color: #efefef;
+}
+
+.h1 {
+  font-size: 3em;
+}
+
+.slogan-img {
+  width: 50%;
+}
+
+@media only screen and (max-width: 769px) {
+  .slogan-img {
+    width: 60%;
+  }
+}
+
+@media only screen and (max-width: 426px) {
+  .slogan-img {
+    width: 90%;
+  }
+}
